@@ -1,11 +1,9 @@
 
-# 🧠 AI-Powered Support Ticket Triage (Python + ML Project)
+AI-Powered Support Ticket Triage (Python + ML Project)
 
 This project simulates a real-world AI workflow for a support team by combining rule-based logic, machine learning, and data visualization in Python.
 
----
-
-## 📌 Project Overview
+Project Overview
 
 This support ticket triage system can:
 - Automatically categorize incoming support tickets using both keyword logic and machine learning
@@ -14,9 +12,8 @@ This support ticket triage system can:
 - Visualize trends with charts
 - Export results to Excel
 
----
 
-## 🧰 Technologies Used
+Technologies Used
 
 - Python 3
 - pandas
@@ -25,9 +22,8 @@ This support ticket triage system can:
 - TfidfVectorizer (for NLP)
 - Google Colab
 
----
 
-## 🔍 Features
+Features
 
 | Feature | Method |
 |--------|--------|
@@ -37,9 +33,8 @@ This support ticket triage system can:
 | Data Visualization | Charts (line, bar, pie) |
 | ML Model | Trained using Naive Bayes on ticket text |
 
----
 
-## 🧪 Machine Learning Details
+achine Learning Details
 
 - **Input:** Ticket text
 - **Output:** Predicted category
@@ -47,25 +42,20 @@ This support ticket triage system can:
 - **Vectorizer:** TF-IDF
 - **Accuracy:** Measured on test set (see notebook)
 
----
 
-## 📊 Visualizations
+Visualizations
 
 - Ticket volume over time (line chart)
 - Tickets by category (bar chart)
 - Ticket priority distribution (pie chart)
 
----
-
-## 📁 Files
+Files
 
 - `ai_ticket_project_final.xlsx`: Combined results (original + AI + ML)
 - `support_ai_notebook.ipynb`: Full Colab notebook
 - `README.md`: This documentation
 
----
-
-## 📚 Learning Reflection
+Learning Reflection
 
 This project was built from scratch as a hands-on way to learn:
 - Python data analysis
@@ -73,18 +63,14 @@ This project was built from scratch as a hands-on way to learn:
 - AI simulation logic
 - Real-world portfolio project development
 
----
-
-## 🚀 How to Run
+How to Run
 
 1. Open the notebook in Google Colab
 2. Upload the Excel file or use your own
 3. Run each cell to retrain, analyze, and visualize
 4. Customize or expand the ML model if desired
 
----
-
-## 🤝 Credits
+Credits
 
 Built step-by-step as a guided project to support Python and AI learning from scratch.
 
